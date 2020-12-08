@@ -25,6 +25,6 @@
 
 ## wanna buy me some croissants
 
-<img alt="Paypal" src="https://img.shields.io/badge/Buy%20me%20some%20croissants-005EA6?style=flat&logo=appveyor=paypal&logoColor=fff&link=https://www.paypal.me/Belcheikh/" >
+<img alt="Paypal" src="https://img.shields.io/badge/Buy%20me%20some%20croissants-005EA6?style=for-the-badge=appveyor=paypal&logoColor=fff&link=https://www.paypal.me/Belcheikh/" >
   
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/martenneli/martenneli?label=Profile%20Views&style=for-the-badge">
