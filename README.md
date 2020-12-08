@@ -12,8 +12,11 @@
   <a href="http://twitter.com/itsmebsimo">
     <img src="https://img.shields.io/badge/@itsmebsimo-A13185?style=for-the-badge&logo=twitter&logoColor=fff&link=https://www.twitter.com/itsmebsimo" />
   </a>
-    <a href="http://instagram.com/itsmebsimo">
+  <a href="http://instagram.com/itsmebsimo">
     <img src="https://img.shields.io/badge/@itsmebsimo-A13185?style=for-the-badge&logo=instagram&logoColor=fff&link=https://www.instagram.com/itsmebsimo/" />
+  </a>
+  <a href="https://open.spotify.com/user/38k92zlxlyzqt52nq8h6fispf">
+    <img src="https://img.shields.io/badge/@itsmebsimo-A13185?style=for-the-badge&logo=spotify&logoColor=fff&link=https://open.spotify.com/user/38k92zlxlyzqt52nq8h6fispf" />
   </a>
 </p>
 
