@@ -12,6 +12,8 @@
   <a href="http://twitter.com/itsmebsimo">
     <img src="https://img.shields.io/twitter/follow/itsmebsimo?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+ 
+  [![Instagram](https://img.shields.io/badge/@itsmebsimo-A13185?style=for-the-badge&logo=instagram&logoColor=fff&link=https://www.instagram.com/itsmebsimo/)](https://www.instagram.com/itsmebsimo/)
 </p>
 
 ## Activities
@@ -24,7 +26,6 @@
 </a>
 
 ## wanna buy me some croissants
-
 [![Paypal](https://img.shields.io/badge/Buy%20me%20a%20croissants-005EA6?style=for-the-badge&logo=appveyor=logo=paypal&link=https://www.paypal.me/Belcheikh/)](https://www.paypal.me/Belcheikh/)
 
 ## Github Ptofile Views
