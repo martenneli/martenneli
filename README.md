@@ -26,5 +26,5 @@
 ## wanna buy me some croissants
 
 [![Paypal](https://img.shields.io/badge/Buy%20me%20a%20croissants-005EA6?style=for-the-badge&logo=appveyor=logo=paypal&link=https://www.paypal.me/Belcheikh/)](https://www.paypal.me/Belcheikh/)
-  
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/martenneli/martenneli?label=Profile%20Views&style=for-the-badge">
+
+[![views](https://komarev.com/ghpvc/?username=martenneli&label=Profile%20views&color=fe75a9&style=for-the-badge)](https://github.com/martenneli/)
