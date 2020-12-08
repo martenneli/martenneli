@@ -27,4 +27,4 @@
 
 [![Paypal](https://img.shields.io/badge/Buy%20me%20some%20croissants-005EA6?style=for-the-badge&logo=appveyor=paypal&logoColor=fff&link=https://www.paypal.me/Belcheikh/)](https://paypal.me/Belcheikh)
 
-[![views](https://komarev.com/ghpvc/?username=martenneli&label=Profile%20views&color=fe75a9&style=for-the-badge&logo=appveyor)](https://github.com/martenneli/)
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/martenneli/martenneli?label=Profile%20Views&style=for-the-badge">
