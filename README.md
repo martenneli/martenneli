@@ -6,9 +6,6 @@
 ## wanna say hi
 
 <p align="center">
-  <a href="https://github.com/martenneli?tab=followers">
-    <img src="https://img.shields.io/github/followers/martenneli?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/itsmebsimo">
     <img src="https://img.shields.io/badge/@itsmebsimo-A13185?style=for-the-badge&logo=twitter&logoColor=fff&link=https://www.twitter.com/itsmebsimo" />
   </a>
